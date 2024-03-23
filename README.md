@@ -1,1 +1,1 @@
-"# Simon game in HTML, CSS, and jQuery" 
+Simon game in HTML, CSS, and jQuery
